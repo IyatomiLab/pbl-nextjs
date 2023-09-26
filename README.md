@@ -3,7 +3,7 @@
 ## Setup
 
 ```
-docker-compose run --rm frontend npx create-next-app .
+docker-compose run --rm frontend npm install
 ```
 
 ## Run Server
